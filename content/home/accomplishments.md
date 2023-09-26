@@ -33,7 +33,7 @@ item:
     url: https://iabe.be/about-iabe/iabe-prize/the-iabe-prize
 - certificate_url: ''
     date_end: ''
-    date_start: '2023-05-10'
+    date_start: '2023-05-12'
     description: "EU Best Quant Finance thesis prize, for my master's thesis in Actuarial and Financial Engineering on the pricing of capped volatility swaps."
     organization: ''
     organization_url: ''
