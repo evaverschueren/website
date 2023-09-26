@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral researcher in Quantitative Finance
+    company: KU Leuven
+    company_url: 'https://www.kuleuven.be/kuleuven'
+    company_logo: KU_Leuven_logo
+    location: Leuven
+    date_start: '2023-09-01'
+    date_end: '2024-02-29'
+    description: ''
+    
   - title: PhD Student in Actuarial Science
     company: KU Leuven
     company_url: 'https://www.kuleuven.be/kuleuven'
     company_logo: KU_Leuven_logo
     location: Leuven
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2023-08-31'
     description: ''
 
   - title: Teaching Assistant in Mathematics

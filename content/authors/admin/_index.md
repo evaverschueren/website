@@ -8,7 +8,7 @@ last_name: Verschueren
 organizations:
 - name: KU Leuven
   url: https://www.kuleuven.be/
-role: PhD Student in Actuarial Science
+role: Postdoc in Quant Finance
 social:
 - icon: envelope
   icon_pack: fas
