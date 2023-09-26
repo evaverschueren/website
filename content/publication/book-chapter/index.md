@@ -9,14 +9,14 @@ date: "2023-01-10T00:00:00Z"
 doi: ""
 featured: false
 projects: []
-publication: 'In Alexander, K., Gargantini, M., and Siri, M., editors, *The Cambridge Handbook of EU Sustainable Finance: Regulation, Supervision and Governance*. Cambridge University Press.'
+publication: 'In Alexander, K., Gargantini, M., and Siri, M., editors, *The Cambridge Handbook of EU Sustainable Finance: Regulation, Supervision and Governance*. Cambridge University Press'
 publication_short: ""
 publication_types: 
 - "2"
 publishDate: "2023-01-10T00:00:00Z"
 slides: ""
 tags: ""
-title: "The skin-in-the-game bond: a novel sustainable capital instrument."
+title: "The skin-in-the-game bond: a novel sustainable capital instrument"
 url_code: ""
 url_dataset: ""
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3827001
