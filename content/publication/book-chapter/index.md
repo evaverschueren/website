@@ -5,7 +5,7 @@ authors:
 - Jan De Spiegeleer
 - Wim Schoutens
 - admin
-date: "2023-31-12T00:00:00Z"
+date: "2023-01-10T00:00:00Z"
 doi: ""
 featured: false
 projects: []
@@ -13,7 +13,7 @@ publication: 'In Alexander, K., Gargantini, M., and Siri, M., editors, *The Camb
 publication_short: ""
 publication_types: 
 - "2"
-publishDate: "2023-31-12T00:00:00Z"
+publishDate: "2023-01-10T00:00:00Z"
 slides: ""
 tags: ""
 title: "The skin-in-the-game bond: a novel sustainable capital instrument."
