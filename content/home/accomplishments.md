@@ -27,8 +27,8 @@ item:
     date_end: ''
     date_start: '2020-09-01'
     description: "Best thesis prize from the Institute of Actuaries in Belgium, for my master's thesis in Mathematics on the joint modeling of physical and pricing densities."
-    organization: IABE
-    organization_url: https://iabe.be/
+    organization: ''
+    organization_url: ''
     title: "IA|BE Thesis prize 2020"
     url: https://iabe.be/about-iabe/iabe-prize/the-iabe-prize
   - certificate_url: ''
