@@ -30,11 +30,11 @@ superuser: false
 title: Eva Verschueren
 ---
 
-<p style='text-align: justify;'> Eva is a PhD student at the <a href="https://feb.kuleuven.be/drc/LRisk" target="_blank">Leuven Research Center on Insurance and Financial Risk Analysis</a> of the University of Leuven, Belgium, under the supervision of prof. <a href="https://katrienantonio.github.io/" target="_blank">Katrien Antonio</a> and prof. <a href="https://schoutens.eu/" target="_blank">Wim Schoutens</a>. Her interests include quantitative finance, sustainable finance and the use of machine learning in finance and insurance. </p>
+<p style='text-align: justify;'> Eva is a postdoctoral researcher at the <a href="https://wis.kuleuven.be/stat" target="_blank">Statistics and Risk Section</a> of the University of Leuven, Belgium, under the supervision of prof. <a href="https://schoutens.eu/" target="_blank">Wim Schoutens</a>. Her interests include quantitative finance, sustainable finance and the use of machine learning in finance and insurance. </p>
 
-{{< icon name="graduation-cap " pack="fas">}} PhD in Actuarial Sciences, KU Leuven, forthcoming September 2023
+{{< icon name="graduation-cap " pack="fas">}} PhD in Actuarial Sciences, KU Leuven, October 2023
 
-{{< icon name="graduation-cap " pack="fas">}} MSc in Actuarial and Financial Engineering, KU Leuven, forthcoming February 2023
+{{< icon name="graduation-cap " pack="fas">}} MSc in Actuarial and Financial Engineering, KU Leuven, February 2023
 
 {{< icon name="graduation-cap " pack="fas">}} MSc in Mathematics, KU Leuven, 2019
 
