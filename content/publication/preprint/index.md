@@ -9,7 +9,7 @@ doi: ""
 featured: true
 projects:
 - internal-project
-publication: ""
+publication: "Working paper under review"
 publication_short: ""
 publication_types:
 - "3"
