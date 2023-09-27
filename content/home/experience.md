@@ -28,7 +28,7 @@ experience:
     company_logo: KU_Leuven_logo
     location: Leuven
     date_start: '2023-09-01'
-    date_end: '2024-02-29'
+    date_end: ''
     description: ''
     
   - title: PhD Student in Actuarial Science
